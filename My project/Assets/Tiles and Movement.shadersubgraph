@@ -505,7 +505,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.0,
+    "m_Value": 1.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -566,7 +566,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "381e919cdea04cb6afdced5bb57d109f",
     "m_Id": 0,
-    "m_DisplayName": "Speed Tile U (1)",
+    "m_DisplayName": "Speed Tile U",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -653,10 +653,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1151.0001220703125,
-            "y": -103.00003814697266,
+            "x": -1152.0,
+            "y": -103.99999237060547,
             "width": 105.0001220703125,
-            "height": 34.00000762939453
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -774,9 +774,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -366.00006103515627,
-            "y": -0.9999889135360718,
-            "width": 208.00001525878907,
+            "x": -354.0,
+            "y": 1.0,
+            "width": 208.0,
             "height": 326.0
         }
     },
@@ -924,10 +924,10 @@
     "m_Guid": {
         "m_GuidSerialized": "20877d5b-f234-4ea7-9603-b9a4dc42308a"
     },
-    "m_Name": "Speed Tile U (1)",
+    "m_Name": "Speed Tile U",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Speed Tile U (1)",
-    "m_DefaultReferenceName": "_Speed_Tile_U_1",
+    "m_RefNameGeneratedByDisplayName": "Speed Tile U",
+    "m_DefaultReferenceName": "_Speed_Tile_U",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -986,10 +986,10 @@
     "m_Guid": {
         "m_GuidSerialized": "215a23dc-3074-45ae-b73b-671f2c8e2f58"
     },
-    "m_Name": "Speed Tile V (1)",
+    "m_Name": "Speed Tile V",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Speed Tile V (1)",
-    "m_DefaultReferenceName": "_Speed_Tile_V_1",
+    "m_RefNameGeneratedByDisplayName": "Speed Tile V",
+    "m_DefaultReferenceName": "_Speed_Tile_V",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -1094,7 +1094,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.0,
+    "m_Value": 1.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -1176,7 +1176,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "bfc4b11fd6d0498aa3aec146487e56b5",
     "m_Id": 0,
-    "m_DisplayName": "Speed Tile V (1)",
+    "m_DisplayName": "Speed Tile V",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -1448,10 +1448,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1106.0,
-            "y": 497.0000305175781,
-            "width": 156.99993896484376,
-            "height": 33.999969482421878
+            "x": -1104.0,
+            "y": 497.0,
+            "width": 141.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
