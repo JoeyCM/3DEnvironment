@@ -5615,6 +5615,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Light (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8885329061251328210, guid: 41df19c79cd707149bf6d9b784c7beec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 308fa1c419e301649a015da700d2fd9a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41df19c79cd707149bf6d9b784c7beec, type: 3}
 --- !u!1001 &478502518
@@ -7276,6 +7281,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Light (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8885329061251328210, guid: 41df19c79cd707149bf6d9b784c7beec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 308fa1c419e301649a015da700d2fd9a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41df19c79cd707149bf6d9b784c7beec, type: 3}
 --- !u!1001 &645382580
@@ -15943,6 +15953,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Light (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8885329061251328210, guid: 41df19c79cd707149bf6d9b784c7beec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 308fa1c419e301649a015da700d2fd9a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41df19c79cd707149bf6d9b784c7beec, type: 3}
 --- !u!1001 &1590613445
@@ -19226,6 +19241,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 8885329061251328210, guid: 41df19c79cd707149bf6d9b784c7beec,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 308fa1c419e301649a015da700d2fd9a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41df19c79cd707149bf6d9b784c7beec, type: 3}
 --- !u!1001 &1871529081
