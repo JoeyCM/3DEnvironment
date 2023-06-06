@@ -3866,7 +3866,7 @@ Skybox:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 552641402}
   m_Enabled: 1
-  m_CustomSkybox: {fileID: 2100000, guid: c051fe5a20f72814f9643eb10ebbd2fc, type: 2}
+  m_CustomSkybox: {fileID: 2100000, guid: a59fe87939f259d40a7ee37624c9568b, type: 2}
 --- !u!1001 &567835397
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4819,7 +4819,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.6037736, g: 0.1959036, b: 0, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
