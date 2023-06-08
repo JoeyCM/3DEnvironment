@@ -9433,6 +9433,7 @@ GameObject:
   - component: {fileID: 474474248}
   - component: {fileID: 474474247}
   - component: {fileID: 474474249}
+  - component: {fileID: 474474250}
   m_Layer: 0
   m_Name: Recording Camera
   m_TagString: Untagged
@@ -9593,6 +9594,15 @@ MonoBehaviour:
   blendDistance: 0
   weight: 1
   sharedProfile: {fileID: 11400000, guid: ff8527d309d1d49598d1b259a43975d2, type: 2}
+--- !u!45 &474474250
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 474474242}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: 1cc6e6796f833a94f94e6d794ca654c3, type: 2}
 --- !u!1001 &475017316
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11700,7 +11710,7 @@ Skybox:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 552641402}
   m_Enabled: 1
-  m_CustomSkybox: {fileID: 2100000, guid: 20cbde986f628bb41bbc92dfd61311cf, type: 2}
+  m_CustomSkybox: {fileID: 2100000, guid: 1cc6e6796f833a94f94e6d794ca654c3, type: 2}
 --- !u!114 &552641408
 MonoBehaviour:
   m_ObjectHideFlags: 0
