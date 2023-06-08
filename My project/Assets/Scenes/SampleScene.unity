@@ -6348,7 +6348,7 @@ GameObject:
   - component: {fileID: 338482150}
   - component: {fileID: 338482149}
   m_Layer: 0
-  m_Name: Fireflies (3)
+  m_Name: PS_Fireflies (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17721,7 +17721,7 @@ GameObject:
   - component: {fileID: 859752276}
   - component: {fileID: 859752275}
   m_Layer: 0
-  m_Name: Fireflies (1)
+  m_Name: PS_Fireflies (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23218,7 +23218,7 @@ GameObject:
   - component: {fileID: 1172314495}
   - component: {fileID: 1172314494}
   m_Layer: 0
-  m_Name: Fireflies
+  m_Name: PS_Fireflies
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26147,7 +26147,7 @@ GameObject:
   - component: {fileID: 1317041451}
   - component: {fileID: 1317041450}
   m_Layer: 0
-  m_Name: Fireflies (2)
+  m_Name: PS_Fireflies (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26928,7 +26928,7 @@ GameObject:
   - component: {fileID: 1346755106}
   - component: {fileID: 1346755105}
   m_Layer: 0
-  m_Name: Smoke
+  m_Name: PS_Smoke
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

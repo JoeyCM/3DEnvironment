@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Water shader
-  m_Shader: {fileID: -6465566751694194690, guid: 4249bdc400f36c94f8349e947422a52d,
+  m_Name: M_Fireplace
+  m_Shader: {fileID: -6465566751694194690, guid: 2182dd7295238b044847ccb0032c1ac2,
     type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -35,20 +35,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Foam_amount: 3.14
-    - _Foam_opacity: 0.98
+    - _Emissive: 25
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _WaterDepth: -0.33
-    - _foamcutoff: 3.1
     m_Colors:
-    - _ColorATransprent_2: {r: 0.105820574, g: 0.7735849, b: 0.7803922, a: 1}
-    - _ColorBTransparent_6: {r: 0.01824492, g: 0.7735849, b: 0.48200333, a: 0.8156863}
-    - _Color_A: {r: 0.105820574, g: 0.7735849, b: 0.7803922, a: 1}
-    - _Color_B: {r: 0.01824492, g: 0.7735849, b: 0.48200333, a: 0.8156863}
-    - _foamcolor: {r: 0.6367924, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.25, g: 0.047058824, b: 0.005882353, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &5445514445067638880
+--- !u!114 &9021183884621578715
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
